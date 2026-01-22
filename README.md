@@ -2,36 +2,35 @@
 
 A modern and responsive web application for booking rooms at a national library, including study rooms, meeting rooms, soundproof rooms, and research rooms. Designed for all age groups and professions with a clean UI, smooth animations, and user-friendly experience.
 
-✨ Features
+## Features
 
-🔐 Book rooms with personal identification
+- 🔐 Book rooms with personal identification
 
-🏢 Multiple room types:
+- 🏢 Multiple room types:
 
-Study Room
+-- Study Room
 
-Meeting Room
+-- Meeting Room
 
-Soundproof Room
+-- Soundproof Room
 
-Research Room
+-- Research Room
 
-🗓 Select date, start time, and duration
+- Select date, start time, and duration
 
-🔍 Live search for active bookings by name or ID
+- 🔍 Live search for active bookings by name or ID
 
-📜 Scrollable booking list without affecting form height
+- 📜 Scrollable booking list without affecting form height
 
-🎨 Modern UI with warm color palette and smooth animations
+- 🎨 Modern UI with warm color palette and smooth animations
 
-📱 Fully responsive layout (desktop, tablet, mobile)
+- 📱 Fully responsive layout (desktop, tablet, mobile)
 
-🛠️ Tech Stack
 
-HTML5 – Structure and layout
+## Tech Stack
 
-CSS3 – Styling, animations, and responsive design
+- HTML5 – Structure and layout
 
-JavaScript (Vanilla) – Form handling, DOM manipulation, and filtering
+- CSS3 – Styling, animations, and responsive design
 
-(Optional enhancement-ready for frameworks like Bootstrap or Tailwind)
+- JavaScript (Vanilla) – Form handling, DOM manipulation, and filtering
