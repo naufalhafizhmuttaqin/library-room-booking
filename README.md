@@ -6,17 +6,17 @@ A modern and responsive web application for booking rooms at a national library,
 
 ## Features
 
-- 🔐 Book rooms with personal identification  
-- 🏢 Multiple room types:
+- Book rooms with personal identification  
+- Multiple room types:
   - Study Room  
   - Meeting Room  
   - Soundproof Room  
   - Research Room  
-- 🗓 Select date, start time, and duration  
-- 🔍 Live search for active bookings by name or ID  
-- 📜 Scrollable booking list without affecting form height  
-- 🎨 Modern UI with warm color palette and smooth animations  
-- 📱 Fully responsive layout (desktop, tablet, mobile)  
+- Select date, start time, and duration  
+- Live search for active bookings by name or ID  
+- Scrollable booking list without affecting form height  
+- Modern UI with warm color palette and smooth animations  
+- Fully responsive layout (desktop, tablet, mobile)  
 
 ---
 
