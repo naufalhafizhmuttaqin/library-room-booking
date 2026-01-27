@@ -1,22 +1,26 @@
 # Library Room Booking System
 
-A modern and responsive web application for booking rooms at a national library, including study rooms, meeting rooms, soundproof rooms, and research rooms. Designed for all age groups and professions with a clean UI, smooth animations, and user-friendly experience.
+A modern, responsive, and user-friendly web application for booking rooms at a national library. Designed with a clean UI, smooth animations, and accessibility in mind for users of all ages and professions.
 
 ---
 
 ## Features
 
-- Book rooms with personal identification  
+- Room booking with personal identification
 - Multiple room types:
-  - Study Room  
-  - Meeting Room  
-  - Soundproof Room  
-  - Research Room  
-- Select date, start time, and duration  
-- Live search for active bookings by name or ID  
-- Scrollable booking list without affecting form height  
-- Modern UI with warm color palette and smooth animations  
-- Fully responsive layout (desktop, tablet, mobile)  
+  - Study Room
+  - Meeting Room
+  - Soundproof Room
+  - Research Room
+- Date and time selection with:
+  - Working hours: **09:00 – 17:00**
+  - Minute intervals: **Every 5 minutes**
+- Duration limit up to **3 hours**
+- Conflict detection to prevent double bookings
+- Live search for active bookings by name or ID
+- Scrollable booking list without affecting layout
+- Modern UI with warm color palette and smooth animations
+- Fully responsive (desktop, tablet, mobile)
 
 ---
 
@@ -24,4 +28,6 @@ A modern and responsive web application for booking rooms at a national library,
 
 - **HTML5** – Structure and layout  
 - **CSS3** – Styling, animations, and responsive design  
-- **JavaScript (Vanilla)** – Form handling, DOM manipulation, and filtering
+- **JavaScript (Vanilla)** – Form handling, DOM manipulation, time picker, and filtering  
+
+---
